@@ -13,6 +13,9 @@ Estilos da página index.html
     text-align: right;
 }
 
+.left{
+    text-align: left;
+}
 
 .container {
     display: flex;
